@@ -1,0 +1,11 @@
+{
+  "name": "rating_app",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "^3.2.0",
+    "coffeescript": "1.12.7"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^2.10.0"
+  }
+}
