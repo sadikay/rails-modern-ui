@@ -1,4 +1,3 @@
 // frontend/packs/application.js
+import "components/page/page";
 import "./application.css";
-
-document.body.insertAdjacentHTML("afterbegin", "Webpacker works!");
