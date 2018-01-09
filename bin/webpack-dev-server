@@ -7,7 +7,7 @@
 # The application 'webpack-dev-server' is installed as part of a gem, and
 # this file is here to facilitate running it.
 #
-
+#
 bundle_binstub = File.expand_path("../bundle", __FILE__)
 load(bundle_binstub) if File.file?(bundle_binstub)
 
