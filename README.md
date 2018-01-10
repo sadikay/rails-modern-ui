@@ -1,8 +1,15 @@
 # README
 
-## Rails Modern Frontend
+## Rails Modern Frontend Template
+![Schema](https://raw.githubusercontent.com/sadikay/rails-modern-ui/master/public/modernist.png?token=AIE99TZIkj-hjo186CFGGxpS8-f025J3ks5aXw4uwA%3D%3D)
+
+### Quick Install
+```
+git clone https://github.com/sadikay/rails-modern-ui.git
+```
+### Setup From Zero
 #### Create Rails App
- `rails new rating_app --skip-coffee --skip-sprockets --skip-turbolinks --webpack --database=mysql  -T`
+ `rails new rails_modern_app --skip-coffee --skip-sprockets --skip-turbolinks --webpack --database=mysql  -T`
 
 #### Browser Config
  Process your code to be cross-browser compliant
@@ -63,3 +70,6 @@
  * Install  [hivemind](https://github.com/DarthSim/hivemind) and configure it.
 
  * Run `rake db:create` && `rake db:migrate`
+
+#### Source
+ https://evilmartians.com/chronicles/evil-front-part-1
