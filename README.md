@@ -1,4 +1,4 @@
-# [DEPRECATED!!!]
+# [DEPRECATED!!!!]
 ## Rails Modern UI Starter Template
 ![Schema](https://raw.githubusercontent.com/sadikay/rails-modern-ui/master/public/modernist.png?token=AIE99TZIkj-hjo186CFGGxpS8-f025J3ks5aXw4uwA%3D%3D)
 
